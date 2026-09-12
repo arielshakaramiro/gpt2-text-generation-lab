@@ -1,0 +1,20 @@
+# Model checkpoints & artifacts
+codeparrot-ds/
+results/
+fine_tuned_gpt2/
+logs/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# Hugging Face / Torch caches
+.cache/
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
